@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class ProductOrder {\n  constructor(product, quantity) {\n    this.product = product;\n    this.quantity = quantity;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
